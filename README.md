@@ -1,1 +1,1 @@
-# Static-Website-Azure
+# Hosting Your First Static Website in Azure
