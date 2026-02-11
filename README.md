@@ -19,6 +19,27 @@ Objective:  Learn how to host a static website in Azure
 
 **Part 2:  Create a Storage Account**
 
-1.
+1.  Search for **Storage Accounts** in the search bar.
+2.  Click **+ Create**.
+   
+    <img width="1032" height="412" alt="image" src="https://github.com/user-attachments/assets/bb54f97a-8c2b-4f51-8cfc-ced9f52d2f9d" />
+
+3.  Fill out the required information in the highligted fields.
+
+    <img width="1246" height="1254" alt="image" src="https://github.com/user-attachments/assets/1db6bbd8-ba92-46ef-bd0e-f3a341594de8" />
+
+4. Click **Review + create**.
+5. Wait for validation to pass, then click **Create**.
+6. When deployment finishes, click **Go to resource**.
+
+**Part 3: Enable Static Website Hosting**
+
+1.  On the left-hand menu of your Storage Account, look under the **Data Management** section.
+2.  Click on **Static website**.
+    <img width="1200" height="1280" alt="image" src="https://github.com/user-attachments/assets/56ed8f69-0e6b-4d30-90f1-eaeddfa53fac" />
+
+   
+   
+
 
 
