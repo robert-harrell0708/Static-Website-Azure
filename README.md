@@ -17,6 +17,8 @@ Objective:  Learn how to host a static website in Azure
 
 5.  Click **Review + create -> Create.**
 
-Part 2:  
+**Part 2:  Create a Storage Account**
+
+1.
 
 
